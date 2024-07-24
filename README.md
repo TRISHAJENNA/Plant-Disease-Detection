@@ -19,4 +19,6 @@ compared to other methods. The early detection of stress offered by the current 
 bring significant benefits to society. Therefore, the proposed system utilizes tweets as input to
 make informed decisions. 
 
+![image](https://github.com/user-attachments/assets/e3b7bb37-1254-45a6-8098-b93e72639d3d)
+
 
